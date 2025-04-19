@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mariia
+# 👋 Hey there, I'm Mariia Shymanska
 
 ## **💻 Software Developer | Full-Stack Enthusiast**
 
@@ -8,6 +8,7 @@
 
 - 🇺🇦 Ukrainian – Native
 - 🇬🇧 English – Intermediate
+- PL Polish - Intermediate
 
 ---
 
@@ -27,7 +28,7 @@
 
 ## ✨ About Me
 
-I enjoy building modern, responsive web applications and learning new technologies. I’m passionate about user experience, clean code
+I enjoy building modern, responsive web applications and learning new technologies. I’m passionate about user experience, clean code.
 
 > “Learning by doing is my favorite approach — and I’m always up for a challenge!”
 
